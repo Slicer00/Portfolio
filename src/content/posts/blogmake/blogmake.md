@@ -2,8 +2,8 @@
 title: 完全無料、10分で構築するMarkdownブログ
 published: 2025-04-01
 description:  Astro,Tailwind CSSとテンプレートからMarkdownブログを構築する方法を解説
-tags: [Markdown, Blogging]
-category: Blogging
+tags: [Markdown, ブログ]
+category: ブログ
 draft: false
 ---
 ## はじめに

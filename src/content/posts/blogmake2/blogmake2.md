@@ -3,8 +3,8 @@ title: GitHub ActionsでAstroを選択してビルド失敗するときの対処
 published: 2025-04-01
 description:  pnpmをGitHub Actionsで使い、Pagesにデプロイする
 image: "./cover.png"
-tags: [Markdown, Blogging]
-category: Blogging
+tags: [Markdown, ブログ]
+category: ブログ
 draft: false
 ---
 
