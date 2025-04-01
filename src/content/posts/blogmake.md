@@ -62,4 +62,5 @@ pnpm dev
 
 これで基本的なセットアップ、ローカルでの環境構築は完了です。
 
-次回はデプロイ手順について解説します。
+
+実際のデプロイは[AstroサイトをGitHub Pagesにデプロイする](https://docs.astro.build/ja/guides/deploy/github/)を参照してください。
