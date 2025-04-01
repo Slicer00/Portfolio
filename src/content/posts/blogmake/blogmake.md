@@ -29,13 +29,12 @@ draft: false
 - Node.js と npm がインストールされた環境(テンプレートによってpnpmを使うことも)
 
 
-## ステップ 1: テンプレートのクローン
+## ステップ 1: テンプレートの使用
 
-まず、当サイトで採用しているAstroテンプレート、[fuwari](https://github.com/saicaca/fuwari)をGitHubからクローンします。以下のコマンドを実行してください:
+まずは当サイトで採用しているAstroテンプレート、[fuwari](https://github.com/saicaca/fuwari)を開きUse this template、Create a new repositoryします。リポジトリ名などを指定して次に進みます。
 
-```bash
-git clone https://github.com/saicaca/fuwari.git
-```
+![fuwariテンプレートのスクリーンショット](./image.png)
+
 
 ## ステップ 2: 依存関係のインストール
 
