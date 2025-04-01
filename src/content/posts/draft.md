@@ -6,17 +6,17 @@ category: Examples
 draft: true
 ---
 
-# This Article is a Draft
+# この記事は下書きです
 
-This article is currently in a draft state and is not published. Therefore, it will not be visible to the general audience. The content is still a work in progress and may require further editing and review.
+この記事は現在下書き状態であり、公開されていません。そのため、一般の読者には表示されません。このコンテンツはまだ作業中であり、さらなる編集やレビューが必要です。
 
-When the article is ready for publication, you can update the "draft" field to "false" in the Frontmatter:
+記事が公開の準備が整ったら、Frontmatter の "draft" フィールドを "false" に更新してください:
 
 ```markdown
 ---
-title: Draft Example
+title: 下書きの例
 published: 2024-01-11T04:40:26.381Z
-tags: [Markdown, Blogging, Demo]
-category: Examples
+tags: [Markdown, ブログ, デモ]
+category: 例
 draft: false
 ---

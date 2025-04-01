@@ -1,9 +1,27 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+九州工業大学 情報通信工学科4年  
+主に以下の分野に興味を持ち、活動しています：
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+- **組み込みシステム開発**: マイコンやセンサーを用いたシステム設計・開発
+- **アプリケーション開発**: Androidアプリ、Webアプリの設計・実装
+- **DTM (デスクトップミュージック)**: 音楽制作やサウンドデザイン
+
+## プロジェクトと活動
+これまでに以下のようなプロジェクトに取り組んできました：
+
+- 組み込みシステムを活用した競技ロボット制御の開発
+- JAVA,xmlとIoTクラウドAPIを用いたAndroidアプリケーションの構築
+- DAWソフトを使用したオリジナル楽曲の制作と公開
+
+## 趣味
+- 音楽制作 (SoundCloudで作品を公開しています)
+- プログラミング (新しい技術やフレームワークの学習)
+- ガジェットや電子工作
+
+## 連絡先
+- [GitHub](https://github.com/Slicer00)
+
+::github{repo="Slicer00"}
+
+- [SoundCloud](https://soundcloud.com/slicer00)
