@@ -3,16 +3,22 @@
 九州工業大学 情報通信工学科4年  
 主に以下の分野に興味を持ち、活動しています：
 
-- **組み込みシステム開発**: マイコンやセンサーを用いたシステム設計・開発
 - **アプリケーション開発**: Androidアプリ、Webアプリの設計・実装
-- **DTM (デスクトップミュージック)**: 音楽制作やサウンドデザイン
+
+- **組み込みシステム開発**: マイコンやセンサーを用いたシステム設計・開発
 
 ## プロジェクトと活動
 これまでに以下のようなプロジェクトに取り組んできました：
 
 - 組み込みシステムを活用した競技ロボット制御の開発
+
+> RoboCupJunior2023名古屋大会 SoccerLightWeight部門出場 チームtwilight
+> 
+> [チームポスター(GoogleDriveのPDFリンク)](https://x.gd/uOlQF)
+
 - JAVA,xmlとIoTクラウドAPIを用いたAndroidアプリケーションの構築
-- DAWソフトを使用したオリジナル楽曲の制作と公開
+
+::github{repo="Slicer00/GeoLight"}
 
 ## 趣味
 - 音楽制作 (SoundCloudで作品を公開しています)
@@ -22,6 +28,6 @@
 ## 連絡先
 - [GitHub](https://github.com/Slicer00)
 
-::github{repo="Slicer00"}
+::github{repo="Slicer00/portfolio"}
 
 - [SoundCloud](https://soundcloud.com/slicer00)
