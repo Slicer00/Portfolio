@@ -12,6 +12,7 @@ draft: false
 以下は、アップロードした音楽ファイルを埋め込む例です。
 
 <audio controls>
-  <source src="/assets/audio/example.mp3" type="audio/mpeg">
+  <source src="/src/assets/audio/example.mp3" type="audio/mpeg">
   お使いのブラウザはオーディオタグをサポートしていません。
+  
 </audio>
