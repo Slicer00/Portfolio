@@ -25,18 +25,18 @@
 ## 使用してきた技術スタック
 
 ### 大学で使用した技術
-- **ツール**: WSL, VirtualBox, MATLAB, Astah* professional
-- **プログラミング言語**: C, C++, JAVA, Python
-- **Web技術**: HTML, CSS, Javascript
-- **データベース**: PostgreSQL
+- ツール: WSL, VirtualBox, MATLAB, Astah* professional
+- プログラミング言語: C, C++, JAVA, Python
+- Web技術: HTML, CSS, Javascript
+- データベース: MySQL、PostgreSQL
 
 ### 自主開発で使用した技術
-- **ツール**: git, VScode, Visual Studio, Android Studio, Lychee Redmine
-- **プログラミング言語**: C++, C#, JAVA
-- **その他**: 組み込みシステム、アプリ開発関連技術
+- ツール: git, VScode, Visual Studio, Android Studio, Lychee Redmine
+- プログラミング言語: C++, C#, JAVA
+- その他: 組み込みシステム、アプリ開発関連技術
 
 ## 趣味
-- 音楽制作 (SoundCloudで作品を公開しています)
+- 音楽制作 (SoundCloudで作品を公開)
 - ガジェットや電子工作、音楽ゲーム等
 
 ## 連絡先
